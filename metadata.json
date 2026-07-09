@@ -1,0 +1,6 @@
+{
+  "name": "RunCoder Official Website",
+  "description": "The official website of RunCoder - a modern Android code editor and mobile IDE designed for students, engineering learners, and developers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,25 @@
+# RunCoder Official Website
+
+RunCoder is a modern Android code editor and mobile IDE designed for students, programming beginners, engineering learners, and developers. It allows users to write, organize, and execute code directly from their Android device with a beautiful, distraction-free environment inspired by Google's Material Design 3.
+
+## Core Capabilities
+- **Supported Languages**: C, C++, Java, Python, HTML, CSS, JavaScript (7 languages).
+- **Execution Model**: RunCoder provides a modern Android coding environment with project management, syntax highlighting, templates, and integrated code execution for supported languages. RunCoder does not perform offline, native, or local compilation on-device.
+- **Project & Workspace Management**: Simple folder organization, file explorer, and templates to start projects quickly.
+- **RunCoder Pro Membership**: Ad-free workspace (removes all Google AdMob ads), premium editor themes, professional programming fonts, extra code templates, and early feature access.
+
+## Primary Pages
+- **Home**: Main dashboard, product overview, core benefits, FAQ, and download call-to-actions.
+- **Features**: Breakdown of editor capabilities, syntax highlighting, templates, and execution details.
+- **RunCoder Pro**: Subscription details (Monthly, Yearly, Lifetime tiers available) integrated securely with Google Play Billing.
+- **Download**: Installation guidelines, system requirements, permissions overview.
+- **Support**: Bug reporting, feature requests, help center.
+- **Privacy Policy**: Official policy documenting data usage and safety.
+- **Terms of Service**: Use agreements, license, and expectations.
+- **Contact**: Direct contact information and developer message submission.
+
+## Official App Information
+- **Domain**: https://runcoder.app
+- **Platform**: Android (Google Play Store)
+- **Publisher Account ID**: pub-6043930204860539
+- **Official Support Email**: runcodersupport@gmail.com
